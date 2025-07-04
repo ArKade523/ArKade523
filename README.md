@@ -1,4 +1,4 @@
-Hey! I'm Kade. I'm a Computer Science undergrad at Utah State University and cofounder of [Raydoc](https://raydoc.dev).
+Hey! I'm Kade, cofounder of [Raydoc](https://raydoc.dev).
 
 I used to be the lead flight software engineer for a student-led cubesat team for the [GASRATS](https://www.usu.edu/physics/gas/projects/gasrats) mission.
 
